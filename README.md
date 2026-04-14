@@ -8,3 +8,4 @@ Handling Outliers
 Understanding the scatter of data
 Alignment 
 Data reduction
+have been addresed an handled
