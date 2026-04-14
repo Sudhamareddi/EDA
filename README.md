@@ -1,11 +1,11 @@
-# 🏠 House Price Prediction - Exploratory Data Analysis
+# House Price Prediction - Exploratory Data Analysis
 
 A complete exploratory data analysis (EDA) on a house prices dataset
 to uncover patterns, trends, and key factors that influence housing prices.
 
 ---
 
-## 📌 Objective
+## Objective
 
 To explore and visualize the house prices dataset and understand:
 - Which features affect house prices the most
@@ -14,7 +14,7 @@ To explore and visualize the house prices dataset and understand:
 
 ---
 
-## 📂 Dataset
+## Dataset
 
 - **Source:** Kaggle — House Prices Dataset
 - Contains information about house size, location, number of rooms,
@@ -22,7 +22,7 @@ To explore and visualize the house prices dataset and understand:
 
 ---
 
-## 🔍 What I Explored
+## What I Explored
 
 - Missing value analysis and data cleaning
 - Distribution of house prices
@@ -32,7 +32,7 @@ To explore and visualize the house prices dataset and understand:
 
 ---
 
-## 🛠️ Libraries Used
+## Libraries Used
 
 | Library | Purpose |
 |---------|---------|
@@ -44,7 +44,7 @@ To explore and visualize the house prices dataset and understand:
 
 ---
 
-## 📊 Key Findings
+## Key Findings
 
 - Larger houses strongly correlate with higher prices
 - Location is one of the biggest price influencing factors
@@ -52,7 +52,7 @@ To explore and visualize the house prices dataset and understand:
 
 ---
 
-## ▶️ How to Run
+## How to Run
 
 1. Open the `.ipynb` file in Google Colab or Jupyter Notebook
 2. Upload the dataset from Kaggle
@@ -60,8 +60,7 @@ To explore and visualize the house prices dataset and understand:
 
 ---
 
-## 👤 Author
-
-**Your Name**
-[GitHub](https://github.com/your-username) |
-[LinkedIn](https://linkedin.com/in/your-linkedin)
+## Author
+Sudhama
+[GitHub](https://github.com/Sudhamareddi) |
+[LinkedIn](www.linkedin.com/in/sudhama-g)
