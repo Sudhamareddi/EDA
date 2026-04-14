@@ -6,6 +6,7 @@ Identifying Missing Values
 Handling Missing Values
 Handling Outliers
 Understanding the scatter of data
+Data transformation
 Alignment 
 Data reduction
 have been addresed an handled
